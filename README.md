@@ -13,6 +13,6 @@ Like this:
 
 - Install [Greasemonkey](https://www.greasespot.net/) first
 - Click [here](https://github.com/Paulomart/t-online_always_expand_addressess/raw/master/t-online_always-expand_addresses.user.js)
-- A popup window will open click install there
+- Inside the popup window click install
 
 *Note: If your popup window stays blank try resizing it.*
